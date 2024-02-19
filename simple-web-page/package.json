@@ -1,0 +1,29 @@
+{
+  "name": "simple-web-page",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "sarkarhd12 <sarkarhriday12@gmail.com>",
+  "homepage": "https://github.com/sarkarhd12/FullStackFood#readme",
+  "license": "ISC",
+  "main": "lib/simple-web-page.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkarhd12/FullStackFood.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/simple-web-page.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/sarkarhd12/FullStackFood/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "ui-library": "file:../ui-library"
+  }
+}

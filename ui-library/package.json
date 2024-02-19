@@ -1,0 +1,29 @@
+{
+  "name": "ui-library",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "sarkarhd12 <sarkarhriday12@gmail.com>",
+  "homepage": "https://github.com/sarkarhd12/FullStackFood#readme",
+  "license": "ISC",
+  "main": "lib/ui-library.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkarhd12/FullStackFood.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/ui-library.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/sarkarhd12/FullStackFood/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  }
+}
